@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+responsimart.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22s%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22reg%22%3A%22%22%2C%22region%22%3A%22BRMG%22%7D
+responsimart.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+responsimart.com	TRUE	/	FALSE	1999999999	_secure_session_id	6f6477c8053e5cb2ca9e589a402df2a9
+www.mercadopago.com	TRUE	/	FALSE	1999999999	_d2id	bb511236-1229-4c7b-8254-f1dbb113c917-n
+.mercadopago.com	TRUE	/	FALSE	1999999999	SameSite	None
+responsimart.com	TRUE	/	FALSE	1999999999	cart	cd6eed6887298ea626b40e28371d52ae
+responsimart.com	TRUE	/	FALSE	1999999999	cart_ts	1710265861
+responsimart.com	TRUE	/	FALSE	1999999999	cart_sig	28f5e9405903f5e5b513f4015c69ca07
+responsimart.com	TRUE	/	FALSE	1999999999	cart_currency	BRL
+responsimart.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+responsimart.com	TRUE	/	FALSE	1999999999	localization	BR
+responsimart.com	TRUE	/	FALSE	1999999999	_shopify_y	09ad782b-f7b5-403a-8a69-e0087af96910
+responsimart.com	TRUE	/	FALSE	1999999999	_shopify_s	e52da203-30d9-42bd-991e-aa6ef65041bd
+responsimart.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
